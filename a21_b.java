@@ -16,16 +16,7 @@ public class SumFun {
       
     }
   
-  // TODO add Javadoc comments
-  /** Javadoc comments */
-    public int sumOfAllEvenNumbers() {
-      int sum = 0;
-      for (Integer i : numbers) {
-        if (i % 2 == 0)
-          sum += i;
-      }
-      return sum;
-    }
+  
   
   // TODO add Javadoc comments
   /** Javadoc comments */
